@@ -20,7 +20,7 @@ INSERT INTO characters (id, name, motto, species, author_id) VALUES
 
 INSERT INTO character_books (id, character_id, book_id) VALUES
 (1, 1, 1),
-(2, 1, 2),
+(2, 1, 6),
 (3, 1, 3),
 (4, 2, 1),
 (5, 2, 2),
