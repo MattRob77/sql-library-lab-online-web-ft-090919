@@ -16,4 +16,4 @@ INSERT INTO characters (id, name, motto, species, author_id) VALUES
 (5, "Santa Clause", "Merry Christmas", "human", 2),
 (6, "Harry Potter", "It is our choices", "human", 2),
 (7, "Weasley", "Oh No!", "human", 2),
-(8, "", "It's 'Gandalf the White' now, bitches", "Wizard", 2);
+(8, "Draco", "It's 'Ok, Potter", "human", 2);
