@@ -18,7 +18,7 @@ INSERT INTO characters (id, name, motto, species, author_id) VALUES
 (7, "Weasley", "Oh No!", "human", 2),
 (8, "Draco", "It's 'Ok, Potter", "human", 3);
 
-INSERT INTO character_books (id, character_id, book_id) VALUES
+
 INSERT INTO character_books (id, character_id, book_id) VALUES
 (1, 1, 1),
 (2, 1, 2),
