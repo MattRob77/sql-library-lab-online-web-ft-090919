@@ -18,3 +18,20 @@ INSERT INTO characters (id, name, motto, species, author_id) VALUES
 (7, "Weasley", "Oh No!", "human", 2),
 (8, "Draco", "It's 'Ok, Potter", "human", 3);
 
+INSERT INTO character_books (id, character_id, book_id) VALUES
+(1, 1, 1),
+(2, 1, 2),
+(3, 1, 3),
+(4, 2, 1),
+(5, 2, 2),
+(6, 2, 3),
+(7, 3, 1),
+(8, 4, 2),
+(9, 5, 4),
+(10, 5, 5),
+(11, 5, 6),
+(12, 6, 4),
+(13, 6, 5),
+(14, 6, 6),
+(15, 7, 4),
+(16, 8, 5);
