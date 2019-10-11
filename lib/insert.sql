@@ -9,11 +9,11 @@ INSERT INTO books (id, title, year, series_id) VALUES (1, "Game of Thrones", 199
 
 
 INSERT INTO characters (id, name, motto, species, author_id) VALUES
-(1, "Holden", "Coffee?", "Human", 1),
-(2, "Naomi", "Belta-lowda", "Human", 1),
-(3, "Alex", "Y'all", "Human", 1),
-(4, "Amos", "I don't feel feelings", "Human", 1),
-(5, "Frodo", "Alright then, keep your secrets", "Hobbit", 2),
-(6, "Legolas", "You have my bow", "Elf", 2),
+(1, "Frodo", "Thatta boy!", "Hobbit", 1),
+(2, "Junia", "Baby", "Human", 1),
+(3, "Matthew", "Boom!", "Human", 1),
+(4, "Deb", "Something aint right", "Human", 1),
+(5, "Santa Clause", "Merry Christmas", "human", 2),
+(6, "Harry Potter", "You have my bow", "Elf", 2),
 (7, "Gimli", "You have my axe", "Dwarf", 2),
 (8, "Gandalf", "It's 'Gandalf the White' now, bitches", "Wizard", 2);
